@@ -1,0 +1,2 @@
+int8 model_state
+string state_name

@@ -1,0 +1,3 @@
+float32[16] input_array
+---
+int8 class_label
